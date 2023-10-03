@@ -1,13 +1,4 @@
-```
- ________  _________   _____               _               _____                    __          
-/  ___|  \/  || ___ \ /  ___|             (_)             /  ___|                  / _|         
-\ `--.| .  . || |_/ / \ `--.  ___  ___ ___ _  ___  _ __   \ `--. _ __   ___   ___ | |_ ___ _ __ 
- `--. \ |\/| || ___ \  `--. \/ _ \/ __/ __| |/ _ \| '_ \   `--. \ '_ \ / _ \ / _ \|  _/ _ \ '__|
-/\__/ / |  | || |_/ / /\__/ /  __/\__ \__ \ | (_) | | | | /\__/ / |_) | (_) | (_) | ||  __/ |   
-\____/\_|  |_/\____/  \____/ \___||___/___/_|\___/|_| |_| \____/| .__/ \___/ \___/|_| \___|_|   
-                                                                | |                             
-                                                                |_|                       
-```
+
 
 Welcome!
 This is a utility that can be compiled with Visual Studio 2019 (or newer). The goal of this program is to create a fake SMB Session. The primary purpose of this is to serve as a method to lure attackers into accessing a honey-device. This program comes with no warranty or guarantees. 
